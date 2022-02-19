@@ -1,0 +1,13 @@
+Notes on Design Properties
+
+color{
+    purple_like: (255,156,39,176);
+    white_like: (255,255,255,255)
+}
+
+fontstyle{
+    br: Roboto Regular;
+    baruch: montserrat-Black(0)
+}
+
+imagesize = 512 x 512
